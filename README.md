@@ -6,7 +6,7 @@ I'm **Meheraj Hossain**, a Software Engineer with **3+ years of professional exp
 
 I specialize in **PHP, Laravel, and MySQL**, with additional experience in frontend technologies such as JavaScript, jQuery, React, Bootstrap, and Tailwind CSS.
 
-Throughout my career, I've contributed to various web applications, including high-traffic platforms and enterprise solutions. My experience includes developing RESTful APIs, optimizing database queries, integrating third-party services, troubleshooting production issues, and improving application performance.
+Throughout my career, I've contributed to various web applications, including high-traffic platforms and commercial software solutions. My experience includes developing RESTful APIs, optimizing database queries, integrating third-party services, troubleshooting production issues, and improving application performance.
 
 Currently, I'm working as a **Software Engineer (Grade-I) at [6amTech](https://6amtech.com)**, where I contribute to developing and maintaining scalable software solutions.
 
@@ -32,21 +32,27 @@ I enjoy solving real-world engineering problems, writing maintainable code, and 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-**Database & Tools**
+**Database & Caching**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Tools & Infrastructure**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **Other Technologies & Integrations**
 
-- Third-party API integrations
-- Google Maps API
-- Google Ad Manager & Google AdSense
-- WebSockets & Laravel Reverb
+- Laravel Reverb & WebSockets
+- Google Maps Platform & Routes API
+- AWS Rekognition
 - Firebase Cloud Messaging
+- Payment Gateway Integrations
+- SMS Gateway Integrations
+- Google Ad Manager & Google AdSense
 
 ---
 
@@ -57,44 +63,59 @@ I enjoy solving real-world engineering problems, writing maintainable code, and 
 
 - Develop and maintain scalable web applications using PHP and Laravel.
 - Design and implement RESTful APIs and third-party integrations.
-- Optimize database queries and application performance.
-- Troubleshoot production issues and improve application reliability.
-- Collaborate with cross-functional teams to deliver software solutions.
+- Reduced Google Maps API costs by approximately **95%** through route caching and conditional API requests.
+- Improved API response times from approximately **4 seconds to 2 seconds** through backend optimization.
+- Worked on complex ride-sharing features, including shared trips, scheduled rides, dynamic pricing, and surge pricing.
+- Implemented AWS Rekognition-based face verification.
+- Developed real-time application features using Laravel Reverb and WebSockets.
+- Optimized database queries, caching strategies, and application performance.
+- Worked with background jobs, Laravel queues, and scheduled tasks.
+- Integrated and maintained payment gateways, SMS services, and other third-party APIs.
+- Troubleshot production issues and improved application reliability.
 
 ### Web Application Developer | [Khaborerkagoj.com](https://www.khaborerkagoj.com)
 **August 2023 – October 2024**
 
 - Developed and maintained web applications for a digital newspaper platform.
-- Worked on application performance, security, and responsiveness.
-- Collaborated with editorial and design teams to implement business requirements.
+- Contributed to the development and maintenance of [Daily Inqilab](https://dailyinqilab.com), a major Bangladeshi newspaper platform.
+- Worked on internal applications, including an Attendance Management System.
+- Designed, managed, and optimized MySQL databases.
+- Identified performance bottlenecks and optimized database queries.
+- Improved application responsiveness, stability, and maintainability.
+- Resolved bugs and collaborated with editorial and design teams to implement business requirements.
 - Maintained technical documentation and deployment procedures.
 
 ### Software Developer | Dhaka Prokash Limited
 **December 2022 – June 2023**
 
 - Developed and maintained internal tools and web applications.
-- Fixed bugs and improved existing application functionality.
-- Worked on performance optimization and general software maintenance.
+- Worked on bug fixes, application maintenance, and performance improvements.
+- Assisted in implementing technical requirements and improving existing application functionality.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌐 Daily Inqilab
-[Visit Website](https://dailyinqilab.com)
+### 🚗 [DriveMond](https://drivemond.app/)
+A comprehensive ride-sharing and parcel delivery solution featuring customer and driver applications, an administration panel, and a business website.
 
-A dynamic online newspaper platform developed using PHP, Laravel, MySQL, JavaScript, jQuery, and Bootstrap.
+**My Contributions:**
+- Backend and admin-panel development using Laravel.
+- Google Maps Routes API integration and optimization.
+- Real-time driver tracking and WebSocket communication.
+- Shared trip management and scheduled rides.
+- Dynamic pricing and surge pricing.
+- AWS Rekognition-based face verification.
+- Database optimization and API performance improvements.
 
-Focused on delivering a secure, responsive, and user-friendly experience for thousands of daily visitors.
+**Tech Stack:** PHP, Laravel, MySQL, Redis, Google Maps API, Laravel Reverb.
 
-### 🚗 DriveMond
-A ride-sharing application involving real-time driver tracking, route management, and Google Maps integration.
+### 🌐 [Daily Inqilab](https://dailyinqilab.com)
+A dynamic online newspaper platform designed to deliver news and digital content to thousands of daily visitors.
 
-Worked on backend APIs, route optimization, WebSocket communication, and application performance improvements.
+**Tech Stack:** PHP, Laravel, MySQL, JavaScript, jQuery, Bootstrap.
 
-### 📦 Dealership Management System
-[View on GitHub](https://github.com/Meheraj-Hossain/dealership-management-system)
-
+### 📦 [Dealership Management System](https://github.com/Meheraj-Hossain/dealership-management-system)
 An automated management system for handling orders, sales, and dealership operations in the food and beverage industry.
 
 **Tech Stack:** Laravel, Bootstrap, MySQL.
@@ -107,46 +128,4 @@ An automated management system for handling orders, sales, and dealership operat
 University of Greenwich, UK  
 2020 – 2022 | Second Class (1st Division)
 
-**Level 5 Diploma in Computing**  
-NCC Education, UK  
-2019 – 2020
-
-**Level 4 Diploma in Computing**  
-NCC Education, UK  
-2017 – 2020
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meheraj-Hossain&show_icons=true&theme=github_dark&hide_border=true" alt="Meheraj's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meheraj-Hossain&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Meheraj-Hossain&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, collaborating on interesting projects, and exploring new opportunities.
-
-- **GitHub:** [Meheraj-Hossain](https://github.com/Meheraj-Hossain)
-- **LinkedIn:** [mehossain13](https://www.linkedin.com/in/mehossain13)
-- **Email:** [mehossain13@gmail.com](mailto:mehossain13@gmail.com)
-
----
-
-<p align="center">
-  <i>Building reliable software, solving real-world problems, and learning something new every day.</i>
-</p>
-
-<p align="center">
-  ⭐ Feel free to explore my repositories and connect with me!
-</p>
+**Level 5 Diploma in Computing
