@@ -77,7 +77,6 @@ I enjoy solving real-world engineering problems, writing maintainable code, and 
 **August 2023 – October 2024**
 
 - Developed and maintained web applications for a digital newspaper platform.
-- Contributed to the development and maintenance of [Daily Inqilab](https://dailyinqilab.com), a major Bangladeshi newspaper platform.
 - Worked on internal applications, including an Attendance Management System.
 - Designed, managed, and optimized MySQL databases.
 - Identified performance bottlenecks and optimized database queries.
