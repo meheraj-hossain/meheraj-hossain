@@ -64,7 +64,7 @@ I enjoy solving real-world engineering problems, writing maintainable code, and 
 - Develop and maintain scalable web applications using PHP and Laravel.
 - Design and implement RESTful APIs and third-party integrations.
 - Reduced Google Maps API costs by approximately **95%** through route caching and conditional API requests.
-- Improved API response times from approximately **4 seconds to 2 seconds** through backend optimization.
+- Improved API response times through backend optimization.
 - Worked on complex ride-sharing features, including shared trips, scheduled rides, dynamic pricing, and surge pricing.
 - Implemented AWS Rekognition-based face verification.
 - Developed real-time application features using Laravel Reverb and WebSockets.
